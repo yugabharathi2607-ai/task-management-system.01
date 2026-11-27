@@ -1,0 +1,6 @@
+{
+  "name": "Campus Event Hub",
+  "description": "University event discovery, student RSVP passes, club directory, and organizer check-in workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
